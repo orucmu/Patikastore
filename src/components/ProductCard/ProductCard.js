@@ -1,10 +1,9 @@
-import React, {useState} from "react";
-import { View, Text, Image, PreviewLayout } from "react-native";
+import React, { useState } from "react";
+import { View, Text, Image } from "react-native";
 import styles from './ProductCard.style';
 
 
 const ProductCard = ({ products }) => {
-   
 
     return (
         <View style={styles.product_data} >

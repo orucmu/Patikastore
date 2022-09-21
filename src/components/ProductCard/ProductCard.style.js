@@ -30,8 +30,8 @@ export default StyleSheet.create({
         fontWeight: 'bold'
     },
     price: {
-        fontWeight:'bold',
-        
+        fontWeight: 'bold',
+
     }
 
 
