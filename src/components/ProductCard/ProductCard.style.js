@@ -22,7 +22,7 @@ export default StyleSheet.create({
         height: 360,
     },
     text_container: {
-        margin: 12
+        margin: 12,
     },
 
     title: {
@@ -32,6 +32,10 @@ export default StyleSheet.create({
     price: {
         fontWeight: 'bold',
 
+    },
+    instock: {
+        color: 'red',
+        fontWeight: 'bold',
     }
 
 
